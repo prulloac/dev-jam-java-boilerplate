@@ -43,7 +43,7 @@
 	// "remoteUser": "root"
 
 	"postAttachCommand": {
-//		"angularCLI": "npm install -g @angular/cli",
+		"angularCLI": "npm install -g @angular/cli",
 		"springCLI": "brew tap spring-io/tap && brew install spring-boot"
 	}
 }
