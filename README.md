@@ -38,18 +38,23 @@
 
 This repository contains the following tools as of the devcontainer.json definition:
 
+```
+# General Tools
 - Git 2.44.0
 - GitHub CLI v2.48.0
 - Docker v24.0.9-2
 - Homebrew v4.2.19
 
+# Backend Tools
 - OpenJDK v21.0.3
 - Maven v3.9.6
 - Gradle v8.7
 - Spring CLI v3.2.5
 
+# Frontend Tools
 - Node.js v20.12.2
 - npm v10.5.0
 - Bun v1.1.4
 - Yarn v1.22.19
 - Angular CLI 17.3.5
+```
